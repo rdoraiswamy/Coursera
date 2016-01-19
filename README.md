@@ -2,7 +2,7 @@
 
 ## Data Science Specialization
 
-li Uses R
+* Uses R
 
 * Nine courses
 
